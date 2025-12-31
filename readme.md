@@ -13,7 +13,7 @@ Enjoy **The Big Lez Show** and its spin-offs directly in Stremio or any compatib
 
 ## Notes
 
-Unfortunately GitHub implements a 25mb upload limit so the archive has to be fetched from tbls.kezza.vip, but don't stress if your selfhosting the process is automated.
+Unfortunately GitHub implements a 25mb upload limit so the archive has to be fetched from tbls.kezza.vip, this is all automated.
 
 ---
 
