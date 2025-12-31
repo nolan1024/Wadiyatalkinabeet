@@ -17,6 +17,10 @@ Enjoy **The Big Lez Show** and its spin-offs directly in Stremio or any compatib
 
 - **Jarrad Wright** – Needleless to say.  
 - **Stremio Addon SDK** – Stremio gets shit on a lot, but it set a foundation, that’s for sure.  
-- **[r/gurdijak](https://www.reddit.com/r/gurdijak/)** – For the complete *The Big Lez Show* archive, actively maintained too - Unfortuantleyu GitHub's 25mb file upload limit means the media has to be fetched from tbls.kezza.vip you don't need to do anything it is automated.
+- **[r/gurdijak](https://www.reddit.com/r/gurdijak/)** – For the complete *The Big Lez Show* archive, actively maintained too.
 
 ---
+
+## Notes
+
+Unfortunately the 25mb file upload limit on here means the archive has to be fetched from tbls.kezza.vip, but dont worry if your selfhosting the process is automated.
