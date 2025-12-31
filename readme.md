@@ -1,7 +1,7 @@
 # The Big Lez Show & Spin-Offs Addon
 
 <img src="https://wallpapercave.com/wp/wp8798173.png" alt="Big Lez Show Banner"/>
-A streaming addon for clients that support the [**Stremio Addon SDK**](https://github.com/Stremio/stremio-addon-sdk).
+A streaming addon for clients that support the [**Stremio Addon SDK**].
 
 No hassle — just install and play.
 
