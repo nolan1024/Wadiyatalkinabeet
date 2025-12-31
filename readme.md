@@ -1,9 +1,7 @@
 # The Big Lez Show & Spin-Offs
 
 <img src="https://wallpapercave.com/wp/wp8798173.png" alt="Big Lez Show Banner"/>
-A streaming addon for clients that support the **Stremio Addon SDK**.
-
-No hassle — just install and play.
+A streaming addon for clients that support the Stremio Addon SDK.
 
 ---
 
@@ -13,16 +11,16 @@ Enjoy **The Big Lez Show** and its spin-offs directly in Stremio or any compatib
 
 ---
 
+## Notes
+
+Unfortunately GitHub implements a 25mb upload limit so the archive has to be fetched from tbls.kezza.vip, but don't stress if your selfhosting the process is automated.
+
+---
+
 ## 🙌 Credits
 
 - **Jarrad Wright** – Needleless to say.  
 - **Stremio Addon SDK** – Stremio gets shit on a lot, but it set a foundation, that’s for sure.  
 - **[r/gurdijak](https://www.reddit.com/r/gurdijak/)** – For the complete *The Big Lez Show* archive, actively maintained too.
-
----
-
-## Notes
-
-- Unfortunately GitHub implements a 25mb upload limit so the archive has to be fetched from tbls.kezza.vip, but don't stress if your selfhosting the process is automated.
 
 ---
