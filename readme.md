@@ -1,4 +1,4 @@
-# The Big Lez Show & Spin-Offs
+# 🎬🦎 The Big Lez Show & Spin-Offs 👽🏄‍♂️
 
 <img src="https://wallpapercave.com/wp/wp8798173.png" alt="Big Lez Show Banner"/>
 A streaming addon for clients that support the Stremio Addon SDK.
@@ -13,7 +13,7 @@ Enjoy **The Big Lez Show** and its spin-offs directly in Stremio or any compatib
 
 ## Notes
 
-Unfortunately GitHub implements a 25mb upload limit so the archive has to be fetched from tbls.kezza.vip, this is all automated.
+Unfortunately GitHub implements a 25mb upload limit per file so the archive has to be fetched from tbls.kezza.vip, this is all automated if your selfhosting so no need to stress.
 
 ---
 
